@@ -13,6 +13,7 @@
 
 ### 🔹 Код (C++ wide-console)
 
+```cpp
 #include <iostream>
 #include <iomanip>
 #include <string>
